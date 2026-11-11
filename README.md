@@ -8,6 +8,8 @@
 
 ## Dependabot Demo Repository
 
+Just a test
+
 This repo contains some projects with outdated dependencies. Fork it to try out
 Dependabot :dependabot:!
 
